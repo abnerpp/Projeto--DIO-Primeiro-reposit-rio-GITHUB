@@ -5,4 +5,4 @@ Primeiro repositório no github, cumprindo o desafio de projeto - DIO.
 
 [MARKDOWN-COMO USAR](https://www.markdownguide.org/)
 
-[GIT BASH - TERMINAL DE COMPARTILHAMENTO GIT] (https://git-scm.com/downloads/win)
+[GIT BASH - TERMINAL DE COMPARTILHAMENTO GIT](https://git-scm.com/downloads/win)
